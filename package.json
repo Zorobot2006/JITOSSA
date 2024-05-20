@@ -80,6 +80,7 @@
     "yt-search":"*",
     "wibusoft":"*",
     "gemini-ai":"*",
+    "javascript-obfuscator":"*",
     "didyoumean":"*",
     "similarity": "^1.2.1",
     "socket.io": "^4.4.1",
